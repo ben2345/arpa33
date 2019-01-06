@@ -1,4 +1,5 @@
 {**
+ * file : admin1744\themes\default\template\helpers\uploader\ajax.tpl 
  * 2007-2018 PrestaShop
  *
  * NOTICE OF LICENSE
